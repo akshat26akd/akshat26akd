@@ -15,7 +15,7 @@
 ❓ Ask me about anything related to Web Dev & App Dev.  
   
 
-📑Want to know more about me? Check out my [Resume](https://drive.google.com/file/d/1jXBhIUhlpUeAdfox1rvqiebiT3EIIQOl/view?usp=sharing)  
+📑Want to know more about me? Check out my [Resume](https://drive.google.com/file/d/1ddiRb1A24M7p91B3F98OhP4B5smKs3n8/view?usp=sharing)  
   
 
 <br/>  
