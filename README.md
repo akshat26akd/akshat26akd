@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm Akshat, a Software Developer👨‍💻and UI/UX Designer ✍🏻</div>  
+# <div align="center">I'm Akshat, a Software Developer👨‍💻and UI/UX Designer ✍🏻</div>  
   
 
 🔭 I’m currently working on [Portfolio-Using-React-Tailwind](https://github.com/akshat26akd/Portfolio-Using-React-Tailwind)  
@@ -83,7 +83,7 @@
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=akshat26akd&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
+ 
 
 <br/>  
 
