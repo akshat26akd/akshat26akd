@@ -92,7 +92,6 @@
 
 
 <div align="center">
-  ## Support Me <3 
             <a href="https://www.buymeacoffee.com/akshat26akd" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
