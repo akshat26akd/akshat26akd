@@ -84,15 +84,6 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=akshat26akd&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
 
 <br/>  
 
@@ -108,6 +99,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
