@@ -85,17 +85,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=akshat26akd&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
-
-  
-
-<br/>  
-
-<br>
-<div align="center">
-            <a href="https://www.buymeacoffee.com/akshat26akd" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
