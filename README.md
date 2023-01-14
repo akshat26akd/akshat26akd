@@ -63,14 +63,6 @@
 
 <br/>  
  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=akshat26akd&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>
-<br/>
-
 ## Connect with me  
 <div align="center">
 <a href="https://instagram.com/_akshat_akd" target="_blank">
@@ -85,4 +77,5 @@
 </div>  
   
 
-<br/> 
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=akshat26akd&show_icons=true&count_private=true&hide_border=true" align="left" />  
