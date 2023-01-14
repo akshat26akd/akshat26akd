@@ -15,7 +15,7 @@
 ❓ Ask me about anything related to Web Dev & App Dev.  
   
 
-📑Want to know more about me? Check out my [Resume](https://drive.google.com/file/d/1ddiRb1A24M7p91B3F98OhP4B5smKs3n8/view?usp=sharing)  
+📑Want to know more about me? Check out my [Resume](https://drive.google.com/file/d/1AJ12RIu0BfZv3_iwAGJgdPtF2Bi4E4hm/view?usp=sharing)  
   
 
 <br/>  
@@ -67,6 +67,10 @@
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=akshat26akd&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<br>
+<br>
+
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-316&hide_border=true&layout=compact"/>
 </div>
