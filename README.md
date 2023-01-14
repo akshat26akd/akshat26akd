@@ -68,14 +68,8 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=akshat26akd&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<br>
-<br>
-
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-316&hide_border=true&layout=compact"/>
-</div>
-<br/> 
-<br/> 
+<br/>
+<br/>
 
 ## Connect with me  
 <div align="center">
