@@ -6,7 +6,7 @@
 # <div align="center">I'm Akshat, a Software Developer👨‍💻and UI/UX Designer ✍🏻</div>  
   
 
-🔭 I’m currently working on [Portfolio-Using-React-Tailwind](https://github.com/akshat26akd/Portfolio-Using-React-Tailwind)  
+🔭 I’m currently working on [CareerCraft](https://github.com/akshat26akd/CareerCraft)  
   
 
 🌱 I’m currently learning Node.Js  
