@@ -78,4 +78,15 @@
   
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=akshat26akd&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=akshat26akd&show_icons=true&count_private=true&hide_border=true" align="left" />
+</p>
+<br>
+
+<p align="left"> 
+  Visitor count
+  
+  ##
+  
+  <img src="https://profile-counter.glitch.me/akshat26akd/count.svg" />
+</p>
