@@ -9,7 +9,7 @@
 🔭 I’m currently working on [CareerCraft](https://github.com/akshat26akd/CareerCraft)  
   
 
-🌱 I’m currently learning Node.Js  
+🌱 I’m currently learning ML/DL & Node.Js  
   
 
 ❓ Ask me about anything related to Web Dev & App Dev.  
