@@ -9,7 +9,7 @@
 🔭 I’m currently working on [Dynamic Weather App](https://weather-app-akshat.netlify.app/)  
   
 
-🌱 I’m currently learning ML/DL & Node.Js  
+🌱 I’m currently learning API Integeration & Node.Js  
   
 
 ❓ Ask me about anything related to Web Dev & App Dev.  
