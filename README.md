@@ -6,7 +6,7 @@
 # <div align="center">I'm Akshat, a Software Developer👨‍💻and UI/UX Designer ✍🏻</div>  
   
 
-🔭 I’m currently working on [CareerCraft](https://github.com/akshat26akd/CareerCraft)  
+🔭 I’m currently working on [Dynamic Weather App](https://weather-app-akshat.netlify.app/)  
   
 
 🌱 I’m currently learning ML/DL & Node.Js  
