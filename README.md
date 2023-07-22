@@ -6,13 +6,8 @@
 # <div align="center">I'm Akshat, a Software Developer👨‍💻and UI/UX Designer ✍🏻</div>  
   
 
-🔭 I’m currently working on [Dynamic Weather App](https://weather-app-akshat.netlify.app/)  
-  
+🔭 I’m currently working on as Graduate Engineer Trainee in Continental Automotive Components Pvt. Ltd. (TCI).
 
-🌱 I’m currently learning API Integeration & Node.Js  
-  
-
-❓ Ask me about anything related to Web Dev & App Dev.  
   
 
 📑Want to know more about me? Check out my [Resume](https://drive.google.com/file/d/1NQ2M8RnVCW4b5ijPRQIN0wDOuySswrjW/view?usp=share_link)  
