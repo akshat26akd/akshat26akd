@@ -6,7 +6,7 @@
 # <div align="center">I'm Akshat, a Software Developer👨‍💻and UI/UX Designer ✍🏻</div>  
   
 
-🔭 I’m currently working on as Graduate Engineer Trainee in Continental Automotive Components Pvt. Ltd. (TCI).
+🔭 I’m currently working as Graduate Engineer Trainee in Continental Automotive Components Pvt. Ltd. (TCI).
 
   
 
