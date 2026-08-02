@@ -51,16 +51,9 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=akshat26akd&show_icons=true&locale=en&theme=dark" alt="akshat26akd" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat26akd&theme=dark" alt="akshat26akd" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/akshat26akd">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshat26akd&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshat26akd&theme=2077" height="180em" />
-</div>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Visitor count</h3>
-<img src="https://profile-counter.glitch.me/akshat26akd/count.svg" />
+<img src="https://komarev.com/ghpvc/?username=akshat26akd&color=blue&style=flat" alt="Visitor count" />
 </div>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
